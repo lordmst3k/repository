@@ -1,8 +1,8 @@
-﻿  main.cpp
-  Generating Code...
-  Compiling...
-  simple_texture.cpp
+﻿  simple_texture.cpp
+  main_window.cpp
+  main.cpp
   Generating Code...
 c:\dev\repository\solar_system\solar_system\simple_texture.cpp(36): warning C4715: 'solar::SimpleTexture::initFromFile': not all control paths return a value
+     Creating library C:\Dev\repository\solar_system\Debug\solar_system.lib and object C:\Dev\repository\solar_system\Debug\solar_system.exp
   solar_system.vcxproj -> C:\Dev\repository\solar_system\Debug\solar_system.exe
   solar_system.vcxproj -> C:\Dev\repository\solar_system\Debug\solar_system.pdb (Partial PDB)
