@@ -39,3 +39,4 @@ Thumbs.db
 # Visual Studio cache/options directory
 .vs/
 Debug/
+*.vcxproj.user
